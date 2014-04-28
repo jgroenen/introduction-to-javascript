@@ -7,8 +7,11 @@ Introduction to JavaScript
 ---
 
 http://www.w3schools.com/js/DEFAULT.asp
+
 http://www.codecademy.com/tracks/javascript
+
 http://www.thinkful.com/learn/javascript-best-practices-1/
+
 https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md
 
 
@@ -16,6 +19,7 @@ https://github.com/stevekwan/best-practices/blob/master/javascript/best-practice
 ---
 
 http://www.javascriptkit.com/javatutors/closures.shtml
+
 http://markdalgleish.com/2011/03/self-executing-anonymous-functions/
 
 3. OOP
@@ -32,13 +36,16 @@ http://requirejs.org/
 ---
 
 http://requirejs.org/
+
 http://learn.jquery.com/plugins/basic-plugin-creation/
 
 6. MVC & Backbone
 ---
 
 http://todomvc.com/
+
 http://backbonejs.org/
+
 http://backbonetutorials.com/
 
 7. APIs
