@@ -11,8 +11,12 @@ http://www.w3schools.com/js/DEFAULT.asp
 2. Self-executing anonymous functions
 ---
 
+http://markdalgleish.com/2011/03/self-executing-anonymous-functions/
+
 3. OOP
 ---
+
+http://javascript.crockford.com/private.html
 
 4. Require
 ---
@@ -43,3 +47,8 @@ http://www.w3schools.com/js/DEFAULT.asp
 
 13. Some examples (using Gist)
 ---
+
+14. Extra resources
+---
+
+http://javascript.crockford.com/
